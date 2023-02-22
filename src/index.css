@@ -1,0 +1,56 @@
+html {
+    font-size: 10px;
+    font-family: sans-serif;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background: linear-gradient(119deg, #f1f3f6, #deebff 112%);
+  }
+  #root {
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+  }
+  @font-face {
+    font-family: "SpaceGrotesk";
+    src: local("SpaceGrotesk-SemiBold"),
+      url("../src/assets/Font/SpaceGrotesk-SemiBold.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "Montserrat-Regular";
+    src: local("Montserrat-Regular"),
+      url("../src/assets/Font/Montserrat-Regular.ttf") format("truetype");
+  }
+  
+  
+  @font-face {
+    font-family: "Montserrat-Medium";
+    src: local("Montserrat-Medium"),
+      url("../src/assets/Font/Montserrat-Medium.ttf") format("trueType");
+  }
+  
+  @font-face {
+    font-family: "Montserrat-Light";
+    src: local("Montserrat-Light"),
+      url("../src/assets/Font/Montserrat-Light.ttf") format("trueType");
+  }
+  @font-face {
+    font-family: "Montserrat-Thin";
+    src: local("Montserrat-Thin"),
+      url("../src/assets/Font/Montserrat-Thin.ttf") format("trueType");
+  }
+  @font-face {
+    font-family: "Montserrat-Italic";
+    src: local("Montserrat-Italic"),
+      url("../src/assets/Font/Montserrat-Italic.ttf") format("trueType");
+  }
+  @font-face {
+    font-family: "Montserrat-Bold";
+    src: local("Montserrat-Bold"),
+      url("../src/assets/Font/Montserrat-Bold.ttf") format("trueType");
+  }
+  
